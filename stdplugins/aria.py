@@ -1,4 +1,6 @@
-"""COMMAND : .magnet, .tor, .url, .show, .ariaRM"""
+"""COMMAND : .magnet <magnet>, 
+.tor <torrent file path>, .url <url>, .show - shows aria download status, 
+.ariaRM- removes the aria downloaded and current files."""
 
 import aria2p
 from telethon import events
