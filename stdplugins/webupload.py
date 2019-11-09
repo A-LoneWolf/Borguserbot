@@ -1,4 +1,4 @@
-"""Commands: .web --<anonfiles, anonymousfiles, megaupload>"""
+"""Commands: .web --<anonfiles, anonymousfiles, megaupload, bayfiles>"""
 
 # credits: SNAPDRAGON (@s_n_a_p_s)
 from telethon import events
